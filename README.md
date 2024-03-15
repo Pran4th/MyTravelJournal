@@ -1,2 +1,2 @@
 # MyTravelJournal
-Basic Webpage Built using React Js
+Basic webpage built using React Js
